@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5a5fa91.css",
-    "main.js": "/static/js/main.07cc16a0.js",
-    "static/js/433.f0bc28b9.chunk.js": "/static/js/433.f0bc28b9.chunk.js",
+    "main.css": "/static/css/main.63c4b37d.css",
+    "main.js": "/static/js/main.30ff985f.js",
+    "static/css/785.7612d107.chunk.css": "/static/css/785.7612d107.chunk.css",
+    "static/js/785.eeb863e5.chunk.js": "/static/js/785.eeb863e5.chunk.js",
     "static/js/453.21abf686.chunk.js": "/static/js/453.21abf686.chunk.js",
-    "static/js/339.3e37a850.chunk.js": "/static/js/339.3e37a850.chunk.js",
-    "static/media/login.svg": "/static/media/login.6a71089a7f84b10252baa96d82e2d6a1.svg",
+    "static/js/357.4896fd29.chunk.js": "/static/js/357.4896fd29.chunk.js",
     "static/media/dark-logo.png": "/static/media/dark-logo.677aa26ee5654972221a.png",
+    "static/media/smart-udyog-logo.svg": "/static/media/smart-udyog-logo.70857ce99761949b10ca972516358523.svg",
     "static/media/Metropolis-Regular.otf": "/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
+    "static/media/office-docs.svg": "/static/media/office-docs.ba62754d4f5abf2dc52656aa6a89879b.svg",
     "static/media/dhoot.png": "/static/media/dhoot.62da4ddc06b8ec08d5f2.png",
-    "static/media/qr_scan.svg": "/static/media/qr_scan.5cf74fa7060acee86ecb2742ffdf8370.svg",
     "index.html": "/index.html",
     "static/media/cross-icon.svg": "/static/media/cross-icon.85e1f4ddd2a1c7249092ed4d0985792a.svg",
-    "static/media/warning_amber.svg": "/static/media/warning_amber.bffc0687d9fa87c562989614b31a56ea.svg",
+    "static/media/userCsv.csv": "/static/media/userCsv.eaefb67338841526a91a.csv",
+    "static/media/action-icon.svg": "/static/media/action-icon.7ea474ec817bbcbc0bcf492a497a0fdd.svg",
     "static/media/SampleSheet.csv": "/static/media/SampleSheet.2da2e90959e1d87dfed0.csv",
-    "static/media/userCsv.csv": "/static/media/userCsv.418d2ad887b470847e45.csv",
-    "static/media/operatorCsv.csv": "/static/media/operatorCsv.85d82e3f977b5241cc03.csv",
-    "static/media/mcq.csv": "/static/media/mcq.5b1c6a93631799f90371.csv",
-    "main.b5a5fa91.css.map": "/static/css/main.b5a5fa91.css.map",
-    "main.07cc16a0.js.map": "/static/js/main.07cc16a0.js.map",
-    "433.f0bc28b9.chunk.js.map": "/static/js/433.f0bc28b9.chunk.js.map",
+    "static/media/operatorCsv.csv": "/static/media/operatorCsv.4bfcfd2de35c2736e438.csv",
+    "static/media/mcq.csv": "/static/media/mcq.62bd97559875ee5253f1.csv",
+    "main.63c4b37d.css.map": "/static/css/main.63c4b37d.css.map",
+    "main.30ff985f.js.map": "/static/js/main.30ff985f.js.map",
+    "785.7612d107.chunk.css.map": "/static/css/785.7612d107.chunk.css.map",
+    "785.eeb863e5.chunk.js.map": "/static/js/785.eeb863e5.chunk.js.map",
     "453.21abf686.chunk.js.map": "/static/js/453.21abf686.chunk.js.map",
-    "339.3e37a850.chunk.js.map": "/static/js/339.3e37a850.chunk.js.map"
+    "357.4896fd29.chunk.js.map": "/static/js/357.4896fd29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a5fa91.css",
-    "static/js/main.07cc16a0.js"
+    "static/css/main.63c4b37d.css",
+    "static/js/main.30ff985f.js"
   ]
 }
