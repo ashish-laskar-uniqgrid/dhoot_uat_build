@@ -1,0 +1,2 @@
+self.onmessage=function(s){const{arr:o,row:e,colors:a}=s.data,n=o.map((s=>{const o=e[s.id];return 0===o?a[0]:1===o?a[1]:2===o?a[2]:3===o?a[3]:a[4]}));self.postMessage(n)};
+//# sourceMappingURL=826.7adc0575.chunk.js.map

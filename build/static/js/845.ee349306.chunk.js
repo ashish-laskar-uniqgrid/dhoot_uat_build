@@ -1,0 +1,2 @@
+self.onmessage=s=>{const{row:l,skills:e,colors:o}=s.data,a=e.map((s=>{const e=l[s.id],a=0===e?o[0]:1===e?o[1]:2===e?o[2]:3===e?o[3]:o[4];return{skillName:s.skill_name,chartColors:a}}));self.postMessage({processedSkills:a,row:l})};
+//# sourceMappingURL=845.ee349306.chunk.js.map
