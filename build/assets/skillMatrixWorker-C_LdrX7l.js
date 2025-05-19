@@ -1,0 +1,1 @@
+(function(){"use strict";self.onmessage=async r=>{const{matrixData:s}=r.data;try{self.postMessage(s)}catch(e){console.error("Worker Error:",e),self.postMessage({error:"Failed to process data."})}}})();

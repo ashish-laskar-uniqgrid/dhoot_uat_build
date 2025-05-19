@@ -1,0 +1,1 @@
+(function(){"use strict";self.onmessage=t=>{const{row:l,skills:c,colors:s}=t.data,n=c.map(o=>{const e=l[o.id],a=e===0?s[0]:e===1?s[1]:e===2?s[2]:e===3?s[3]:s[4];return{skillName:o.skill_name,chartColors:a}});self.postMessage({processedSkills:n,row:l})}})();

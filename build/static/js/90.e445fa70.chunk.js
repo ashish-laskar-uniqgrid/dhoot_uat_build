@@ -1,2 +1,0 @@
-self.onmessage=async s=>{const{matrixData:e}=s.data;try{self.postMessage(e)}catch(r){console.error("Worker Error:",r),self.postMessage({error:"Failed to process data."})}};
-//# sourceMappingURL=90.e445fa70.chunk.js.map
