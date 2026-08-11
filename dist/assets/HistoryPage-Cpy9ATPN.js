@@ -1,1 +1,0 @@
-import{j as o,aF as r}from"./index-DGTgOTE7.js";import{a as s}from"./fields-D-EKLZyU.js";import{H as t}from"./HistoryTab-5NS6_hjm.js";import"./index-Dco5cTn4.js";const p=()=>o.jsx(r,{sx:{backgroundColor:s.bg,minHeight:"100%",padding:"18px 20px"},children:o.jsx(t,{})});export{p as default};
