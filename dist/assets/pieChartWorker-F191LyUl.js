@@ -1,1 +1,0 @@
-(function(){"use strict";self.onmessage=function(e){const{arr:t,row:n,colors:o}=e.data,a=t.map(r=>{const s=n[r.id];return console.log("value",s),s===1?o[1]:s===2?o[2]:s===3?o[3]:s===4?o[4]:o[0]});self.postMessage(a)}})();
